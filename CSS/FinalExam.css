@@ -248,6 +248,7 @@ li {
 
 .skill-detail-name {
     text-decoration: underline;
+    margin-bottom: 10px;
 }
 /* ============kinh nghiem================= */
 .experience-wrap {
