@@ -116,7 +116,7 @@ a:hover .link {
 }
 
 .hello-wrap {
-    background-image: url(../Pic/Miro.jpg);
+    background-image: url(Pic/Miro.jpg);
 }
 
 .hello {
@@ -138,7 +138,7 @@ a:hover .link {
 /* ===========about============ */
 
 .about-wrap {
-    background-image: url(../Pic/HoangThanh.PNG);
+    background-image: url(Pic/HoangThanh.PNG);
 }
 
 .about {
@@ -175,7 +175,7 @@ li {
 
 /* =========hoc van======== */
 .education-wrap {
-    background-image: url(../Pic/IMG_20200208_172019_HDR.jpg);
+    background-image: url(Pic/IMG_20200208_172019_HDR.jpg);
 }
 
 .education {
@@ -212,7 +212,7 @@ li {
 
 /* =========skill============= */
 .skill-wrap {
-    background: url(../Pic/IMG_20200222_174453_HDR.jpg)
+    background: url(Pic/IMG_20200222_174453_HDR.jpg)
 }
 
 .skill {
@@ -240,7 +240,7 @@ li {
 }
 /* ============kinh nghiem================= */
 .experience-wrap {
-    background-image: url(../Pic/NgayCuoiCung.jpg);
+    background-image: url(Pic/NgayCuoiCung.jpg);
     display: flex;
     flex-direction: column;
     position: relative;
