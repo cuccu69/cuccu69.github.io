@@ -108,7 +108,7 @@ a:hover .link {
   width: 84%;
   /* border: solid 1px black; */
   /* padding-left: 20px; */
-  /* background-image: url(../Pic/Miro\ -\ Copy.jpg); */
+  /* background-image: url(../Pic/Miro.jpg); */
 }
 
 .sub-content {
@@ -119,7 +119,10 @@ a:hover .link {
 
 .hello-wrap {
   background-image: url(../Pic/Miro.jpg);
+<<<<<<< HEAD
   background-size: 100% 100%;
+=======
+>>>>>>> a515a656792d50104eb3c9f542c6175e45f226db
 }
 
 .hello {
@@ -141,8 +144,12 @@ a:hover .link {
 /* ===========about============ */
 
 .about-wrap {
+<<<<<<< HEAD
   background-image: url(../Pic/HoangThanh.PNG);
   background-size: 100% 100%;
+=======
+  background-image: url(../Pic/HoangThanh.png);
+>>>>>>> a515a656792d50104eb3c9f542c6175e45f226db
 }
 
 .about {
@@ -247,7 +254,10 @@ li {
 /* ============kinh nghiem================= */
 .experience-wrap {
   background-image: url(../Pic/NgayCuoiCung.jpg);
+<<<<<<< HEAD
   background-size: 100% 100%;
+=======
+>>>>>>> a515a656792d50104eb3c9f542c6175e45f226db
   display: flex;
   flex-direction: column;
   position: relative;
