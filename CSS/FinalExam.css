@@ -118,7 +118,8 @@ a:hover .link {
 }
 
 .hello-wrap {
-  background-image: url(../Pic/Miro\ -\ Copy.jpg);
+  background-image: url(../Pic/Miro.jpg);
+  background-size: 100% 100%;
 }
 
 .hello {
@@ -140,7 +141,8 @@ a:hover .link {
 /* ===========about============ */
 
 .about-wrap {
-  background-image: url(../Pic/Hoàng\ Thành.png);
+  background-image: url(../Pic/HoangThanh.PNG);
+  background-size: 100% 100%;
 }
 
 .about {
@@ -178,6 +180,7 @@ li {
 /* =========hoc van======== */
 .education-wrap {
   background-image: url(../Pic/IMG_20200208_172019_HDR.jpg);
+  background-size: 100% 100%;
 }
 
 .education {
@@ -214,7 +217,8 @@ li {
 
 /* =========skill============= */
 .skill-wrap {
-  background: url(../Pic/IMG_20200222_174453_HDR.jpg)
+  background: url(../Pic/IMG_20200222_174453_HDR.jpg);
+  background-size: 100% 100%;
 }
 
 .skill {
@@ -242,7 +246,8 @@ li {
 }
 /* ============kinh nghiem================= */
 .experience-wrap {
-  background-image: url(../Pic/ngồi\ cuối\ ngày.jpg);
+  background-image: url(../Pic/NgayCuoiCung.jpg);
+  background-size: 100% 100%;
   display: flex;
   flex-direction: column;
   position: relative;
